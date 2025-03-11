@@ -3,9 +3,9 @@ fastapi==0.110.0
 uvicorn==0.27.1
 python-multipart==0.0.9
 pillow==10.2.0
-diffusers==0.27.2
-transformers==4.42.3
-torch==2.2.1
-numpy==1.26.4
-accelerate==0.28.0
-safetensors==0.4.2
+diffusers==0.24.0
+transformers==4.34.0
+torch==2.0.1
+numpy==1.24.3
+accelerate==0.23.0
+safetensors==0.3.2
