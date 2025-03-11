@@ -24,11 +24,6 @@ const SAMPLERS = [
   "Euler a",
   "Euler",
   "DPM++ 2M Karras",
-  "DPM++ SDE Karras",
-  "DPM++ 2M SDE Exponential",
-  "DPM++ 2M SDE Karras",
-  "DPM2 Karras",
-  "DPM2",
   "LMS",
   "DDIM",
 ];
